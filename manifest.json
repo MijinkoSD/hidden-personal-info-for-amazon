@@ -1,6 +1,6 @@
 {
     "name": "個人情報非表示 for amazon.co.jp",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "manifest_version": 3,
     "description": "amazon.co.jpのサイトトップに存在する名前や住所の表示を削除します。\nすべてのページで正しく動作する保証はありません。",
     "content_scripts": [

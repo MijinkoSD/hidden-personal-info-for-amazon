@@ -1,3 +1,5 @@
-#glow-ingress-block {
+#glow-ingress-block,
+#contextualIngressPtLabel_deliveryShortLine,
+#pickupLocationIngress_feature_div {
     display: none !important;
 }
